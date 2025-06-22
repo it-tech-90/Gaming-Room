@@ -1,5 +1,4 @@
 # Gaming-Room
-Gaming room Java-based web app
 
 <h1>🎮 The Gaming Room - Java Web Application</h1>
 <p>This repository contains the source code and supporting files for <i>The Gaming Room</i>, a fictional game development client project completed for the <b>CS 230: Operating Platforms</b> course. The app is designed to run across multiple platforms and support RESTful game communication and authentication.</p>
